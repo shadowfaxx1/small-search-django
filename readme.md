@@ -16,20 +16,23 @@ The application provides a search functionality where users can enter keywords r
 
 1. Clone the repository:
    ```bash
-   git clone `https://github.com/shadowfaxx1/small-search-django.git`
-   cd django-trie-search-app
+   - git clone `https://github.com/shadowfaxx1/small-search-django.git`
+   - cd django-trie-search-app
 
 2. Set Vitual env:
-    ``` python -m venv env
-    ``` source env/bin/activate
+    ```sh
+     - python -m venv env
+     - source env/bin/activate
+    ```
 
 3. Install dependencies:
-    ``` pip install -r requirements.txt
-
+    ```
+     pip install -r requirements.txt
+    ```
 4. Run Django commands in order :
-    `python manage.py makemigrations`
-    `python manage.py migrate`
-    `python manage.py createsuperuser`
+   - `python manage.py makemigrations`
+   - `python manage.py migrate`
+   - `python manage.py createsuperuser`
 
 5. Start the development server:
 
