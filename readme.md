@@ -12,6 +12,9 @@ The application provides a search functionality where users can enter keywords r
 - **Responsive Design:** Utilizes Bootstrap and Tailwind CSS for a responsive and modern user interface.
 - **Efficient Searching:** Implements Trie data structure to ensure fast and efficient prefix-based searching.
 
+## Demo Video
+[![Watch the video](https://img.youtube.com/vi/UbxsSsb7X58/maxresdefault.jpg)](https://youtu.be/UbxsSsb7X58)
+
 ## Installation
 
 1. Clone the repository:
